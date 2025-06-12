@@ -1,2 +1,2 @@
 # website
-My Portfoloa (still a work in progress)
+My Portfolio (still a work in progress)
