@@ -1,0 +1,48 @@
+body{
+    background-color:#007ACC;
+    color: white;
+}
+.nav-bar ul{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    background-color: #00BFFF;
+    overflow: hidden;
+    text-align: center;
+}
+
+.nav-bar li{
+    display: inline-block;
+}
+
+.nav-bar li a{
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 1.1em;
+    transition: background-color 0.3s;
+}
+
+.nav-bar a:hover{
+    background-color: #00aeff;
+}
+
+h1{
+    text-align: center;
+}
+
+p{
+    text-align: center;
+    font-size: 25px;
+    margin: 20px;
+}
+
+#photo{
+    display:block;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 24px;
+    box-shadow: 0 4px 16px rgba(0, 0, 0, 0.4);
+}
